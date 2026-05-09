@@ -4,7 +4,7 @@
     border: 1px solid white;
     border-radius: 35px;
     margin-left: 200px;
-    margin-top: 90px;
+    margin-top: 25px;
     color: white;
     padding-bottom: 80px;
     padding-left: 120px;
@@ -20,4 +20,21 @@ body{
 #Notes{
     display: flex;
     flex-direction: row;
+}
+
+#Pause{
+   width: 140px; 
+   height: 140px;
+   margin-left: 800px;
+   margin-top: 15px;
+}
+
+#Delay{
+    width: 120px;
+    background-color: black;
+    border: 1px solid rgb(68, 68, 68);
+    height: 35px;
+    margin-top: 20px;
+    margin-left: 800px;
+    color: white;
 }
